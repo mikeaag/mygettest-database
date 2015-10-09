@@ -1,6 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using AlanBlunden.Database;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace AlanBlunden.Database.Tests
 {
