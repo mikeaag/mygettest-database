@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Alanblunden.Database
+namespace AlanBlunden.Database
 {
     public class Database
     {
+        public static string TYPE = "SQL";
     }
 }

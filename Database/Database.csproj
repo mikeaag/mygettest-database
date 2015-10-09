@@ -7,8 +7,8 @@
     <ProjectGuid>{1929234E-03A2-4097-84E7-917B6D115927}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Database</RootNamespace>
-    <AssemblyName>Database</AssemblyName>
+    <RootNamespace>AlanBlunden.Database</RootNamespace>
+    <AssemblyName>AlanBlunden.Database</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
